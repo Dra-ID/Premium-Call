@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+datetime
+rich
+inquirer
+colorama
