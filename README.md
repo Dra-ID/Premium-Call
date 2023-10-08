@@ -9,6 +9,7 @@ pkg install git
 git clone https://github.com/Dra-ID/Prank-Callv2
 cd Prank-Callv2
 pip install -r requirements.txt
+git pull
 python run.py
 ```
 # Atau di Bawah
