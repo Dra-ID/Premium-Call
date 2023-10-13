@@ -4,3 +4,4 @@ datetime
 rich
 inquirer
 colorama
+fake_useragent
