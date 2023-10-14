@@ -1,13 +1,16 @@
 # Prank-Callv2
 Script Callv2 Premium 😻
 
+```
+Minimal Kasih Star Lah Kan Kamu Baik Hati
+```
 # Install
 ```python
 pkg update && pkg upgrade
 pkg install python && pkg install python-pip
 pkg install git
-git clone https://github.com/Dra-ID/Prank-Callv2
-cd Prank-Callv2
+git clone https://github.com/Dra-ID/Premium-Call
+cd Premium-Call 
 pip install -r requirements.txt
 git pull
 python run.py
