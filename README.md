@@ -4,6 +4,11 @@ Script Callv2 Premium 😻
 ```
 Minimal Kasih Star Lah Kan Kamu Baik Hati
 ```
+Apikey Prem
+```
+Beli apikey Hanya 5k unli Premium
+https://bit.ly/3PYi3FN
+```
 # Install
 ```python
 pkg update && pkg upgrade
