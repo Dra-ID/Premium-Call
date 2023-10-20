@@ -4,10 +4,10 @@ Script Callv2 Premium 😻
 ```
 Minimal Kasih Star Lah Kan Kamu Baik Hati
 ```
-Apikey Prem
+Apikey Premium 
 ```
 Beli apikey Hanya 5k unli Premium
-https://bit.ly/3PYi3FN
+https://bit.ly/3PYi3FN / 083809192307 wa
 ```
 # Install
 ```python
