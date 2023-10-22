@@ -1,15 +1,10 @@
-# Prank-Callv2
+# Premium-Call 
 Script Callv2 Premium 😻
 
 ```
 Minimal Kasih Star Lah Kan Kamu Baik Hati
 ```
-Apikey Premium 
-```
-Beli apikey Hanya 5k unli Premium
-https://bit.ly/3PYi3FN / 083809192307 wa
-```
-# Install
+# Install Script 
 ```python
 pkg update && pkg upgrade
 pkg install python && pkg install python-pip
