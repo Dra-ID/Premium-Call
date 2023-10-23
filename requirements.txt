@@ -5,3 +5,4 @@ rich
 inquirer
 colorama
 fake_useragent
+pycryptodome
