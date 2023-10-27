@@ -15,13 +15,6 @@ pip install -r requirements.txt
 git pull
 python run.py
 ```
-# Server Call
-```
-Server call 1
-server call 2
-server call 3
-server call 4
-```
 # Atau di Bawah
 ```
 Penginstallan ada YouTube cek
