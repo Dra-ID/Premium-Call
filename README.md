@@ -17,5 +17,5 @@ python run.py
 ```
 # Atau di Bawah
 ```
-Penginstallan ada YouTube cek
+Penginstallan ada YouTube cekk
 ```
