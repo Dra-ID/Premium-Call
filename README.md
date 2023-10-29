@@ -15,6 +15,12 @@ pip install -r requirements.txt
 git pull
 python run.py
 ```
+Screenshot tan
+<div align="center">
+  <img src="Data/images.png">
+  <br>
+  <br>
+  
 # Atau di Bawah
 ```
 Penginstallan ada YouTube cekk
