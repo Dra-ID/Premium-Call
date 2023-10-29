@@ -1,8 +1,8 @@
 # Premium-Call 
 Script Callv2 Premium 😻
 
-```
-Minimal Kasih Star Lah Kan Kamu Baik Hati
+```python
+Minimal Kasih Star Lah Kan Kamu Baik Hati | Buy Id Hanya 5k Unlimited Premium 
 ```
 # Install Script 
 ```python
