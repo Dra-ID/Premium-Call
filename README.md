@@ -1,9 +1,6 @@
 # Premium-Call 
 Script Call Premium 😻
 
-```python
-Minimal Kasih Star Lah Kan Kamu Baik Hati | Buy Id Hanya 5k Unlimited Premium 
-```
 # Install Script 
 ```python
 pkg update && pkg upgrade
@@ -15,13 +12,7 @@ pip install -r requirements.txt
 git pull
 python run.py
 ```
-Screenshot tan
-<div align="center">
-  <img src="Data/images.png">
-  <br>
-  <br>
-  
-# Atau di Bawah
+Follow Tiktok 
 ```
-Penginstallan ada YouTube cekk
+https://tiktok.com/@vindraid
 ```
