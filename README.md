@@ -13,6 +13,6 @@ git pull
 python run.py
 ```
 Follow Tiktok 
-```
+```bash
 https://tiktok.com/@vindraid
 ```
