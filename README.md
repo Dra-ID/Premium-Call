@@ -1,5 +1,5 @@
 # Premium-Call 
-Script Call Premium 😻
+Script Call Premium
 
 # Install Script 
 ```python
