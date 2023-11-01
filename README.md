@@ -9,6 +9,8 @@ Script Call Premium!!!
 pkg update && pkg upgrade
 pkg install python && pkg install python-pip
 pkg install git
+cd
+rm -rf Premium-Call
 git clone https://github.com/Dra-ID/Premium-Call
 cd Premium-Call 
 pip install -r requirements.txt
