@@ -1,10 +1,12 @@
 # Premium-Call 
 Script Call Premium!!!
 
-Tonton Video
-<li><code><a href="https://youtu.be/6ehkC7u9PPg?si=mqH8GChNFPOCyF4P">Video</a></code></li> 
+Tonton Video Scnya Di YouTube 
+<li><code><a href="https://youtu.be/6ehkC7u9PPg?si=mqH8GChNFPOCyF4P">Video Scnya</a></code></li> 
+Tonton video scnya Di Tiktok
+<li><code><a href="https://vm.tiktok.com/ZSNAua9Yg/">Video Scnya</a></code></li> 
 <p align="center">
-
+  
   <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+Sayang+Scnya+^_^" alt="UwU">
   
 # Install Script 
