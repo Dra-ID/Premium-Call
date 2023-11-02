@@ -3,7 +3,7 @@ Script Call Premium!!!
 
 Tonton Video Scnya Di YouTube 
 <li><code><a href="https://youtu.be/6ehkC7u9PPg?si=mqH8GChNFPOCyF4P">Video Scnya</a></code></li> 
-Tonton video scnya Di Tiktok
+Tonton video scnya Di Tiktok Update 
 <li><code><a href="https://vm.tiktok.com/ZSNAua9Yg/">Video Scnya</a></code></li> 
 <p align="center">
   
