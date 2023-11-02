@@ -7,7 +7,7 @@ Tonton video scnya Di Tiktok
 <li><code><a href="https://vm.tiktok.com/ZSNAua9Yg/">Video Scnya</a></code></li> 
 <p align="center">
   
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+Sayang+Scnya+^_^" alt="UwU">
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FF1493&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Dong+Sayang+Scnya+^_^" alt="UwU">
   
 # Install Script 
 ```python
