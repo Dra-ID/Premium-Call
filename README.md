@@ -33,6 +33,9 @@ python run.py
   ```
   </details>
 
+Video Script
+<li><a href="https://youtu.be/6ehkC7u9PPg?si=ZeV50Riy5xHQiFNA">Tonton</a></code></li> 
+
   <p align="center">
   
   <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Recode/Decode+Lu+Sampah+(Trah+🚮" alt="UwU">
