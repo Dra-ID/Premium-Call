@@ -1,9 +1,9 @@
 requests
 beautifulsoup4
-datetime
 rich
 inquirer
 colorama
 fake_useragent
 pycryptodome
 my_fake_useragent
+datetime
