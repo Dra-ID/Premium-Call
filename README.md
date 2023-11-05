@@ -14,7 +14,8 @@ pkg install git
 cd
 rm -rf Premium-Call
 git clone https://github.com/Dra-ID/Premium-Call
-cd Premium-Call 
+cd Premium-Call
+ls
 pip install -r requirements.txt
 git pull
 python run.py
@@ -25,11 +26,12 @@ python run.py
   <summary><strong> Update Script(Dra-ID)</strong></summary>
 
   ```php
-  cd && rm -rf Premium-Call
-  git clone https://github.com/Dra-ID/Premium-Call
-  cd Premium-Call
-  pip install -r requirements.txt
-  python run.py
+cd && rm -rf Premium-Call
+git clone https://github.com/Dra-ID/Premium-Call
+cd Premium-Call
+ls
+pip install -r requirements.txt
+python run.py
   ```
   </details>
 
