@@ -1,5 +1,5 @@
 # Premium-Call 
-Script Call Premium!!!!!
+Script Call Premium!!!!!!
 
 DOWNLOAD TERMUX TERBARU 
 <li><a href="https://www.mediafire.com/file/r1ay7mhb9j2toix/com.termux_118.zip/file">Termux_118</a></code></li> 
