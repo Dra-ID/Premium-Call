@@ -29,11 +29,11 @@ python run.py
   <summary><strong> Update Script(Dra-ID)</strong></summary>
 
   ```php
-cd && rm -rf Premium-Call
-git clone https://github.com/Dra-ID/Premium-Call
+cd
 cd Premium-Call
 ls
 pip install -r requirements.txt
+git pull
 python run.py
   ```
   </details>
