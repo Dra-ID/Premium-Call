@@ -46,3 +46,9 @@ Follow Tiktok
 ```bash
 https://tiktok.com/@vindraid
 ```
+
+</p>
+
+<p align="center">
+  <img src="Data/image.jpg">
+</p>
