@@ -5,5 +5,5 @@ inquirer
 colorama
 fake_useragent
 pycryptodome
-my_fake_useragent
+sh
 datetime
