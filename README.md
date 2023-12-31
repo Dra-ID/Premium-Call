@@ -26,7 +26,7 @@ python run.py
   </details>
   
 <details open>
-  <summary><strong> Update Script(Dra-ID)</strong></summary>
+  <summary><strong> Kalo Udah Install Di Atas jalanin yang di bawah (Dra-ID)</strong></summary>
 
   ```php
 cd
