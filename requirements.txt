@@ -7,3 +7,4 @@ fake_useragent
 pycryptodome
 sh
 datetime
+pytube
