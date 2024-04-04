@@ -11,6 +11,7 @@ DOWNLOAD TERMUX TERBARU
   <summary><strong> Install Script(Dra-ID)</strong></summary>
   
 ```python
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install python && pkg install python-pip
 pkg install git
