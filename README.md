@@ -61,3 +61,5 @@ Menu 2
 <p align="center">
   <img src="Data/image2.jpg">
 </p>
+
+• Yang mau beli bisa chat Tele > `t.me/@vindradoang`
