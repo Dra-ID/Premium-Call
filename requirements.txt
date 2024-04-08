@@ -1,10 +1,10 @@
 requests
+bs4
+colorama
 beautifulsoup4
 rich
-inquirer
-colorama
 fake_useragent
-pycryptodome
-sh
 datetime
-pytube
+inquirer
+stdiomask
+sh
